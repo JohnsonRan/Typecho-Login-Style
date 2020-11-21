@@ -43,7 +43,7 @@ $bodyClass = 'body-100';
 								<input name="password" class="text"  type="password" placeholder="密码">
 							</div>
 							<div class="remember" style="text-align:center;font-size: 87.5%;">
-							<label for="remember"><input type="checkbox" name="remember" class="checkbox" value="1" id="remember" /> <?php _e('Autologon'); ?></label>
+							<label for="remember"><input type="checkbox" name="remember" class="checkbox" value="1" id="remember" /> <?php _e('Auto Login'); ?></label>
 							</div>
 							<div class="mb2" ><button type="submit" class="act-but submit" style="color: #FFFFFF">登入</button>
 							        <p class="more-link">
